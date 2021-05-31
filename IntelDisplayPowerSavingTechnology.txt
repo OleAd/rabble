@@ -1,0 +1,1 @@
+Whenever a new update of Windows turns on the horrible Intel Display Power Saving "Technology", use this repository: https://github.com/orev/dpst-control
